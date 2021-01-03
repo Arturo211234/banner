@@ -18,7 +18,7 @@ int main(){
   }
  }
 
- /* Begine Font Assignments */
+ /* Begin Font Assignments */
 
 
  row[0]['!'][0] = ' '; 
