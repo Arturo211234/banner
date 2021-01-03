@@ -6,7 +6,7 @@ My own implementation of the banner UNIX utility
 To build from source, you simply have to:  
 ```
  git clone https://github.com/Arturo211234/banner.git
- cd banner  \
+ cd banner
  make
 ```
  And that's it!
